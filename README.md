@@ -4,7 +4,7 @@
 
 **Las voces de tu ciudad y los sonidos del mundo, en una sola app para Android.** Descubre música, sigue la actualidad y vive el deporte con miles de emisoras de España y del resto del mundo. Guarda tus favoritas y encuentra tu próxima compañía sonora con una interfaz oscura, clara y fácil de recorrer.
 
-**[⬇️ Descargar la última APK](https://github.com/fhebler-commits/radio-habibi/releases/latest)** · **[💛 Apoyar con una donación](https://www.paypal.com/donate/?hosted_button_id=P9WD5GXWT452U)** · [Comunicar un problema](https://github.com/fhebler-commits/radio-habibi/issues)
+**[⬇️ Descargar la última APK](https://github.com/Habibitv/radio-habibi/releases/latest)** · **[💛 Apoyar con una donación](https://www.paypal.com/donate/?hosted_button_id=P9WD5GXWT452U)** · [Comunicar un problema](https://github.com/Habibitv/radio-habibi/issues)
 
 Gratis · Android 8.0 o posterior · Sin cuenta · Sin publicidad añadida por la app
 
@@ -31,7 +31,7 @@ Gratis · Android 8.0 o posterior · Sin cuenta · Sin publicidad añadida por l
 
 ## Instala RADIO HABIBI
 
-1. Abre [la última versión publicada](https://github.com/fhebler-commits/radio-habibi/releases/latest).
+1. Abre [la última versión publicada](https://github.com/Habibitv/radio-habibi/releases/latest).
 2. Descarga el archivo **RADIO-HABIBI-1.4.apk** de la sección **Assets**.
 3. Ábrelo en tu móvil Android e instala la aplicación. Si Android lo solicita, autoriza la instalación desde la aplicación con la que has abierto la APK.
 
@@ -51,7 +51,7 @@ La búsqueda cercana pide permiso al utilizarla. La ubicación se usa para calcu
 
 ## Ayuda a que suene más lejos
 
-Si RADIO HABIBI te acompaña, puedes darle una **⭐ al repositorio**, compartir su enlace o [comunicar errores y sugerencias](https://github.com/fhebler-commits/radio-habibi/issues).
+Si RADIO HABIBI te acompaña, puedes darle una **⭐ al repositorio**, compartir su enlace o [comunicar errores y sugerencias](https://github.com/Habibitv/radio-habibi/issues).
 
 Las donaciones son voluntarias y ayudan a apoyar el proyecto:
 
@@ -61,4 +61,4 @@ Gracias por escuchar y compartir RADIO HABIBI.
 
 ---
 
-**English:** RADIO HABIBI is a free Android internet radio player for stations from Spain and around the world, with favorites, advanced search, nearby stations, temporary pause buffering and Android Auto support. Download the APK from [Releases](https://github.com/fhebler-commits/radio-habibi/releases/latest).
+**English:** RADIO HABIBI is a free Android internet radio player for stations from Spain and around the world, with favorites, advanced search, nearby stations, temporary pause buffering and Android Auto support. Download the APK from [Releases](https://github.com/Habibitv/radio-habibi/releases/latest).
